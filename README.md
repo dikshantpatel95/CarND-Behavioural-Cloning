@@ -71,3 +71,5 @@ I also tweaked the delta mentioned above to modify the measurements for images f
 I got the best result with the Epochs = 15, and delta = 0.35
 the training set was close to 15500 images, of which almost 80% were used for training and the rest 20% for validation.
 The video is saved as video.py.
+
+https://github.com/dikshantpatel95/CarND-Behavioural-Cloning/blob/master/video.py
